@@ -1,0 +1,110 @@
+"test","movieid","title","genres","imdbid","tmdbid","userid","rating","timestamp"
+0,1,"Toy Story (1995)","Adventure|Animation|Children|Comedy|Fantasy",114709,862,4,4.0,1113765937
+68469,2,"Jumanji (1995)","Adventure|Children|Fantasy",113497,8844,4,4.0,1113767306
+95612,3,"Grumpier Old Men (1995)","Comedy|Romance",113228,15602,8,3.0,858269342
+111197,4,"Waiting to Exhale (1995)","Comedy|Drama|Romance",114885,31357,83,5.0,832442974
+114186,5,"Father of the Bride Part II (1995)","Comedy",113041,11862,4,2.0,1123990453
+129660,6,"Heat (1995)","Action|Crime|Thriller",113277,949,4,4.5,1113767242
+158343,7,"Sabrina (1995)","Comedy|Romance",114319,11860,8,4.0,858269342
+173644,8,"Tom and Huck (1995)","Adventure|Children",112302,45325,83,5.0,832443392
+175183,9,"Sudden Death (1995)","Action",114576,9091,19,4.0,836434265
+179632,10,"GoldenEye (1995)","Action|Adventure|Thriller",113189,710,4,4.0,1113765995
+212718,11,"American President, The (1995)","Comedy|Drama|Romance",112346,9087,4,3.5,1113767280
+232387,12,"Dracula: Dead and Loving It (1995)","Comedy|Horror",112896,12110,8,3.0,858269481
+236911,13,"Balto (1995)","Adventure|Animation|Children",112453,21032,232,4.0,1461548651
+238863,14,"Nixon (1995)","Drama",113987,10858,8,3.0,858269416
+245701,15,"Cutthroat Island (1995)","Action|Adventure|Romance",112760,1408,19,3.0,836434185
+248855,16,"Casino (1995)","Crime|Drama",112641,524,4,4.0,1113765691
+270020,17,"Sense and Sensibility (1995)","Drama|Romance",114388,4584,16,4.0,829558083
+294572,18,"Four Rooms (1995)","Comedy",113101,5,44,4.0,1335793467
+300827,19,"Ace Ventura: When Nature Calls (1995)","Comedy",112281,9273,4,2.0,1113767324
+325740,20,"Money Train (1995)","Action|Comedy|Crime|Drama|Thriller",113845,11517,4,2.5,1145937918
+330398,21,"Get Shorty (1995)","Comedy|Crime|Thriller",113161,8012,6,4.0,832039737
+356097,22,"Copycat (1995)","Crime|Drama|Horror|Mystery|Thriller",112722,1710,18,3.0,845061782
+367233,23,"Assassins (1995)","Action|Crime|Thriller",112401,9691,4,3.0,1115782385
+372104,24,"Powder (1995)","Drama|Sci-Fi",114168,12665,51,4.0,922449256
+381295,25,"Leaving Las Vegas (1995)","Drama|Romance",113627,451,4,4.5,1113767215
+406136,26,"Othello (1995)","Drama",114057,16420,168,3.0,868044144
+409164,27,"Now and Then (1995)","Children|Drama",114011,9263,83,5.0,832443576
+411040,28,"Persuasion (1995)","Drama|Romance",114117,17015,165,4.0,834035268
+414464,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)","Adventure|Drama|Fantasy|Mystery|Sci-Fi",112682,902,56,4.0,1274780520
+424488,30,"Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)","Crime|Drama",115012,37557,165,4.0,834035433
+425849,31,"Dangerous Minds (1995)","Drama",112792,9909,4,3.0,1113796669
+437651,32,"Twelve Monkeys (a.k.a. 12 Monkeys) (1995)","Mystery|Sci-Fi|Thriller",114746,63,4,4.5,1113767082
+492497,33,"Wings of Courage (1995)","Adventure|Romance|IMAX",114952,78802,2038,3.0,849823077
+492569,34,"Babe (1995)","Children|Drama",112431,9598,4,3.5,1113767134
+528472,35,"Carrington (1995)","Drama|Romance",112637,47018,165,3.0,834035268
+530044,36,"Dead Man Walking (1995)","Crime|Drama",112818,687,4,3.5,1113767240
+553999,37,"Across the Sea of Time (1995)","Documentary|IMAX",112286,139405,1127,3.0,1108841752
+554088,38,"It Takes Two (1995)","Children|Comedy",113442,33689,83,5.0,832443549
+554800,39,"Clueless (1995)","Comedy|Romance",112697,9603,4,2.5,1113767219
+584222,40,"Cry, the Beloved Country (1995)","Drama",112749,34615,168,3.0,868044319
+585167,41,"Richard III (1995)","Drama|War",114279,31174,4,4.5,1123990211
+590249,42,"Dead Presidents (1995)","Action|Crime|Drama",112819,11443,60,1.0,836693114
+592869,43,"Restoration (1995)","Drama",114272,35196,10,4.0,948883986
+595536,44,"Mortal Kombat (1995)","Action|Adventure|Fantasy",113855,9312,4,1.0,1123989796
+608634,45,"To Die For (1995)","Comedy|Drama|Thriller",114681,577,4,2.0,1117080123
+618353,46,"How to Make an American Quilt (1995)","Drama|Romance",113347,11861,154,3.0,1026273509
+621687,47,"Seven (a.k.a. Se7en) (1995)","Mystery|Thriller",114369,807,4,5.0,1113767129
+676927,48,"Pocahontas (1995)","Animation|Children|Drama|Musical|Romance",114148,10530,11,3.0,1112135389
+693285,49,"When Night Is Falling (1995)","Drama|Romance",114916,8391,982,4.0,1016685902
+693553,50,"Usual Suspects, The (1995)","Crime|Mystery|Thriller",114814,629,4,4.5,1113767113
+755733,51,"Guardian Angel (1994)","Action|Drama|Thriller",109950,117164,2395,3.0,899415851
+755768,52,"Mighty Aphrodite (1995)","Comedy|Drama|Romance",113819,11448,8,4.0,858269372
+766166,53,"Lamerica (1994)","Adventure|Drama",110299,49133,3989,3.5,1111959559
+766327,54,"Big Green, The (1995)","Children|Comedy",112499,26441,83,3.0,832443327
+767391,55,"Georgia (1995)","Drama",113158,97406,360,2.0,840253427
+768369,56,"Kids of the Round Table (1995)","Adventure|Children|Comedy|Fantasy",113541,124057,3250,1.0,975436462
+768452,57,"Home for the Holidays (1995)","Drama",113321,9089,235,3.0,1010418797
+770982,58,"Postman, The (Postino, Il) (1994)","Comedy|Drama|Romance",110877,11010,55,2.0,1059054034
+784370,59,"Confessional, The (Confessionnal, Le) (1995)","Drama|Mystery",112714,99040,463,3.0,841916130
+784575,60,"Indian in the Cupboard, The (1995)","Adventure|Children|Fantasy",113419,11359,56,2.5,1274780875
+792176,61,"Eye for an Eye (1996)","Drama|Thriller",116260,17182,4,3.0,1114050467
+794641,62,"Mr. Holland's Opus (1995)","Drama",113862,2054,4,3.5,1135543206
+818000,63,"Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)","Comedy|Crime",116126,10607,160,3.5,1076720061
+820744,64,"Two if by Sea (1996)","Comedy|Romance",118002,19760,19,3.0,836845362
+822936,65,"Bio-Dome (1996)","Comedy",115683,9536,4,0.5,1115782387
+828773,66,"Lawnmower Man 2: Beyond Cyberspace (1996)","Action|Sci-Fi|Thriller",116839,11525,4,0.5,1145937915
+831359,67,"Two Bits (1995)","Drama",114753,40628,542,5.0,874761259
+831535,68,"French Twist (Gazon maudit) (1995)","Comedy|Romance",113149,4482,121,4.0,831415984
+832853,69,"Friday (1995)","Comedy",113118,10634,74,4.0,1364315767
+838070,70,"From Dusk Till Dawn (1996)","Action|Comedy|Horror|Thriller",116367,755,4,3.0,1117080064
+853891,71,"Fair Game (1995)","Action",113010,11859,19,3.0,836845192
+855257,72,"Kicking and Screaming (1995)","Comedy|Drama",113537,28387,84,2.0,999056798
+856591,73,"Misérables, Les (1995)","Drama|War",113828,48750,84,4.0,999057335
+860027,74,"Bed of Roses (1996)","Drama|Romance",115644,20927,54,3.0,868126229
+863860,75,"Big Bully (1996)","Comedy|Drama",115676,36929,164,2.0,862684976
+864463,76,"Screamers (1995)","Action|Sci-Fi|Thriller",114367,9102,4,2.0,1113766115
+868189,77,"Nico Icon (1995)","Documentary",113973,124626,1158,1.0,1026848390
+868418,78,"Crossing Guard, The (1995)","Action|Crime|Drama|Thriller",112744,27526,19,3.0,849711518
+869702,79,"Juror, The (1996)","Drama|Thriller",116731,9623,19,4.0,849711626
+876043,80,"White Balloon, The (Badkonake sefid) (1995)","Children|Drama",112445,46785,84,3.0,999056112
+876646,81,"Things to Do in Denver When You're Dead (1995)","Crime|Drama|Romance",114660,400,19,3.0,849711444
+880095,82,"Antonia's Line (Antonia) (1995)","Comedy|Drama",112379,880,56,3.0,1326366237
+882819,83,"Once Upon a Time... When We Were Colored (1995)","Drama|Romance",114039,146599,842,4.0,880372534
+883436,84,"Last Summer in the Hamptons (1995)","Comedy|Drama",113612,188588,84,4.0,999057130
+883603,85,"Angels and Insects (1995)","Drama|Romance",112365,8447,4,4.0,1115782362
+886437,86,"White Squall (1996)","Action|Adventure|Drama",118158,10534,19,3.0,849621512
+891043,87,"Dunston Checks In (1996)","Children|Comedy",116151,17414,182,2.5,1267013978
+892155,88,"Black Sheep (1996)","Comedy",115697,13997,56,2.5,1274781169
+898062,89,"Nick of Time (1995)","Action|Thriller",113972,2086,19,3.0,836845235
+901551,90,"The Journey of August King (1995)","Drama",113490,61548,1109,5.0,857582904
+901777,92,"Mary Reilly (1996)","Drama|Horror|Thriller",117002,9095,117,1.0,856632824
+904239,93,"Vampire in Brooklyn (1995)","Comedy|Horror|Romance",114825,12158,83,5.0,832443168
+906422,94,"Beautiful Girls (1996)","Comedy|Drama|Romance",115639,9283,168,3.0,868044080
+910805,95,"Broken Arrow (1996)","Action|Adventure|Thriller",115759,9208,4,4.5,1113767211
+936652,96,"In the Bleak Midwinter (1995)","Comedy|Drama",113403,40154,239,3.0,992920957
+937166,97,"Hate (Haine, La) (1995)","Crime|Drama",113247,406,47,3.0,938797394
+940014,98,"Shopping (1994)","Action|Thriller",111173,45549,2700,3.5,1142770868
+940105,99,"Heidi Fleiss: Hollywood Madam (1995)","Documentary",113283,63076,47,2.0,949726490
+940874,100,"City Hall (1996)","Drama|Thriller",115907,11062,4,4.0,1115782366
+945325,101,"Bottle Rocket (1996)","Adventure|Comedy|Crime|Romance",115734,13685,91,4.5,1275404300
+950278,102,"Mr. Wrong (1996)","Comedy",117102,47475,134,3.5,1381535764
+952420,103,"Unforgettable (1996)","Mystery|Sci-Fi|Thriller",118040,2045,103,3.0,913051253
+953629,104,"Happy Gilmore (1996)","Comedy",116483,9614,4,3.0,1113765671
+975876,105,"Bridges of Madison County, The (1995)","Drama|Romance",112579,688,12,3.0,1108087146
+987160,106,"Nobody Loves Me (Keiner liebt mich) (1994)","Comedy|Drama",110251,11907,1158,5.0,1027028907
+987300,107,"Muppet Treasure Island (1996)","Adventure|Children|Comedy|Musical",117110,10874,22,5.0,1237622280
+995422,108,"Catwalk (1996)","Documentary",112646,89333,769,3.0,835049120
+995558,109,"Headless Body in Topless Bar (1995)","Comedy|Drama|Thriller",113276,96357,427,0.5,1142789468
+995576,110,"Braveheart (1995)","Action|Drama|War",112573,197,4,4.5,1113767070
